@@ -6,7 +6,7 @@
 
   <groupId>com.mtfelisb</groupId>
   <artifactId>mvn-gpkg-test</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>mvn-gpkg-test</name>
   <!-- FIXME change it to the project's website -->
